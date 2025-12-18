@@ -20,7 +20,7 @@
 
 A collection of technologies and tools I am proficient in:
 
-<p align="center">
+<p align="left">
   <strong>Languages:</strong><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -55,9 +55,9 @@ Here are some of the projects I'm proud of. Be sure to check them out!
 
 | Project                                                                                                | Description                                                                                             | Tech Stack                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| 🔗 **[Agri-Sakha Prototype](https://github.com/Ayushkr-itm/AgriSakha_Prototype)** | A full-stack web application for farmers, featuring ML models for crop recommendation and disease detection.  | ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn) |
-| 🔗 **[Resume Parser & Recommendation System](https://github.com/Ayushkr-itm/gigcoach-ai)** | An NLP-based resume parser and job recommendation system built during my internship at Gig-Coach AI.      | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?style=flat&logo=spacy) ![NLTK](https://img.shields.io/badge/-NLTK-3776AB?style=flat) |
-| 🔗 **[Human Pose Estimation Model](https://github.com/Ayushkr-itm/your-repo-link)**| A deep learning model to estimate human poses from images, developed during my research internship at IIT Madras. | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv) |
+| 🔗 **[Agri-Sakha Prototype](https://github.com/Ayushkr-itm/AgriSakha_Prototype)** | A full-stack web application for farmers, featuring ML models for crop recommendation and disease detection.  | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Tenserflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb) |
+| 🔗 **[GigCoach AI](https://github.com/Ayushkr-itm/gigcoach-ai)** | A full-stack financial wellness platform designed to be the "financial nervous system" for India's gig economy workers, featuring a web dashboard and a companion WhatsApp bot.      | ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| 🔗 **[Celestial Circuitry AI](https://github.com/Ayushkr-iitm/Celestial_Circuitry_AI)**| Quantum-Powered AI for Exoplanet Discovery and Cosmic Intelligence Analysis. | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)|
 
 ---
 
