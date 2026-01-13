@@ -73,8 +73,9 @@ Here are some of the projects I'm proud of. Be sure to check them out!
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushkr-iitm&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="Ayush's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushkr-iitm&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkr-iitm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkr-iitm&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
