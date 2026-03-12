@@ -70,11 +70,11 @@ Here are some of the projects I'm proud of. Be sure to check them out!
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Stats
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ayushkr-iitm&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ayushkr-iitm&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkr-iitm&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=Ayushkr-iitm&show_icons=true&theme=tokyonight)
 
+![Streak](https://nirzak-streak-stats.vercel.app/?user=Ayushkr-iitm&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkr-iitm&layout=compact&theme=tokyonight)
 
