@@ -72,9 +72,23 @@ Here are some of the projects I'm proud of. Be sure to check them out!
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Ayushkr-iitm&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ayushkr-iitm&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Ayushkr-iitm&theme=tokyonight)
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Ayushkr-iitm&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkr-iitm&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkr-iitm&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
